@@ -38,3 +38,41 @@ In today's fast-paced business environment, staying ahead of the curve requires 
 Employees who felt recognized and engaged were more likely to excel in their roles, while those with lower satisfaction tended to have lower performance metrics..
 </div>
 [Read More](https://www.linkedin.com/pulse/employee-attrition-uncovering-hidden-factors-behind-exit-akanu-fwfjf/?trackingId=8FKd3M4c8HMnV0xj13GLcA%3D%3D)
+
+
+
+
+
+
+## CONTACT DETAILS
+
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:akanu.meme@gmail.com">akanu.meme@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(234) 813-847-5934</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Abuja, Nigeria</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="(https://github.com/akanuchime/portfolio/blob/e429ffe50dbdef2292853e3e37394f3f3abb166a/assets/Executive%20Report.pdf)">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/chimeakanu">The things I do daily on LinkedIn</a></td>
+    </tr>
+    <tr>
+      <td>📺</td>
+      <td><a href="https://web.facebook.com/chimeakanu">My activities on the blue app</a></td>
+    </tr>
+  </tbody>
+</table>
+
