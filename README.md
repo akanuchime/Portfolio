@@ -1,23 +1,29 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
-
+<p> 
 <div style="text-align: justify;">
 Hello! I'm Chimezirim Akanu 🤓, the data analyst, educator, and consultant. I specialize in turning raw data into valuable insights that support business strategy and performance. Skilled in using SQL, Python, and Excel for data manipulation across sales, operations, finance, and customer service, I bring a unique perspective to data exploration and visualization. I am committed to using data to solve problems, improve operations, drive innovation and growth.
 </div>
+</p>
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
+<p> 
 ## WHAT I DO
-
+</p>
+<div style="text-align: justify;">
 *As the Data Analyst, I provide consulting and manage projects for businesses with insights from data.*
+</div>
 
 **- ✅ Data Analytics.**
+<div style="text-align: justify;">
 I provide in-depth analysis and unique solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+</div>
 
-
-**- ✅ HMO Fraud Consultant.**
-I offer consulting services and help health maintenance organizations (HMOs) make data-driven decision in mitigating health insurance fraud.
-
+**- ✅ Business Analyst.**
+<div style="text-align: justify;">
+I offer consulting services and help businesses make data-driven decision in identifying areas for improvement to enhance operational efficiency.
+</div>
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
