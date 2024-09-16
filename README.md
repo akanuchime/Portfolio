@@ -6,29 +6,35 @@ Hello! I'm Chimezirim Akanu 🤓, the data analyst, educator, and consultant. I 
 </div>
 </p>
 
-<p> 
+
 <!--Mention your top/relevant skills here - core and soft skills-->
 
 ## WHAT I DO
-</p>
 
 *As the Data Analyst, I provide consulting services and manage projects for businesses with insights from data.*
-
 
 **- ✅ Data Analytics.**
 
 I provide in-depth analysis and unique solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
-
 **- ✅ Business Analyst.**
 
-I offer consulting services and help businesses make data-driven decision in identifying areas for improvement to enhance operational efficiency.
+I offer consulting services and help businesses in identifying business needs, recommend areas for improvement to enhance operational efficiency and profitability.
 
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
 *A glimpse of some of the projects I've been working on.*
+
+**Unleashing Business Growth with Data: A Journey with Beyond Cars Ltd.**
+![image](assets/Dashboard_project3.png)
+<div style="text-align: justify;">
+By implementing an optimized strategy through the analysis of conversion rates across various factors, Skyline Property Management’s can improve conversion rate from 44.4% to 81.8% by marketing residential properties to male prospects who inspect the properties...
+</div>
+[Read More](https://www.linkedin.com/pulse/boosting-real-estate-conversions-how-data-driven-insights-akanu-koahf/?trackingId=%2F4COzxKaRs2f56aDR%2F2CvA%3D%3D)
+
+**Employee Attrition: Uncovering the Hidden Factors Behind the Exit.**
 
 **Unleashing Business Growth with Data: A Journey with Beyond Cars Ltd.**
 ![image](assets/CarBranch_Dashboard.png)
