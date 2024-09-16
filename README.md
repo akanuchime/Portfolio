@@ -54,10 +54,15 @@ Employees who felt recognized and engaged were more likely to excel in their rol
 ## SKILLS 
 (CORE)
 <p> 
-<div style="text-align: justify;">
-**- ✅ Data Analytics & Interpretation** **- ✅ Business Intelligence & Reporting** **- ✅ Data Visualization** **- ✅ Data Cleaning & Preparation** 
-**- ✅ SQL** **- ✅ Excel** **- ✅ Python** **- ✅ Predictive Modeling & Forecasting** **- ✅ Project Management**
-</div>
+<li>
+- ✅ SQL - ✅ Excel - ✅ Python 
+- ✅ Business Intelligence & Reporting
+- ✅ Predictive Modeling & Forecasting
+- ✅ Data Analytics & Interpretation  
+- ✅ Data Cleaning & Preparation
+- ✅ Data Visualization  
+- ✅ Project Management
+</li>
 </p>
 
 (SOFT)
