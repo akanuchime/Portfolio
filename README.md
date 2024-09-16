@@ -27,10 +27,10 @@ I offer consulting services and help businesses in identifying business needs, r
 
 *A glimpse of some of the projects I've been working on.*
 
-**Unleashing Business Growth with Data: A Journey with Beyond Cars Ltd.**
+**Boosting Real Estate Conversions: How Data-Driven Insights Can Transform Your Sales Strategy.**
 ![image](assets/Dashboard_project3.png)
 <div style="text-align: justify;">
-By implementing an optimized strategy through the analysis of conversion rates across various factors, Skyline Property Management’s can improve conversion rate from 44.4% to 81.8% by marketing residential properties to male prospects who inspect the properties...
+By implementing an optimized sales strategy through the analysis of conversion rates across various factors, Skyline Property Management Ltd can improve conversion rate from <b>44.4%</b> to <b>81.8%</b> by marketing residential properties to male prospects who inspect the properties...
 </div>
 [Read More](https://www.linkedin.com/pulse/boosting-real-estate-conversions-how-data-driven-insights-akanu-koahf/?trackingId=%2F4COzxKaRs2f56aDR%2F2CvA%3D%3D)
 
