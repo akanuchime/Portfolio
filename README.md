@@ -34,7 +34,6 @@ By implementing an optimized strategy through the analysis of conversion rates a
 </div>
 [Read More](https://www.linkedin.com/pulse/boosting-real-estate-conversions-how-data-driven-insights-akanu-koahf/?trackingId=%2F4COzxKaRs2f56aDR%2F2CvA%3D%3D)
 
-**Employee Attrition: Uncovering the Hidden Factors Behind the Exit.**
 
 **Unleashing Business Growth with Data: A Journey with Beyond Cars Ltd.**
 ![image](assets/CarBranch_Dashboard.png)
