@@ -11,7 +11,7 @@ Hello! I'm Chimezirim Akanu 🤓, the data analyst, educator, and consultant. I 
 
 ## WHAT I DO
 
-*As the Data Analyst, I provide consulting services and manage projects for businesses with insights from data.*
+* I specialize in transforming complex business datasets into clear, actionable intelligence that informs decision-making and fuels business growth through advanced data analytics.*
 
 **- ✅ Data Analytics.**
 
@@ -51,7 +51,22 @@ Employees who felt recognized and engaged were more likely to excel in their rol
 [Read More](https://www.linkedin.com/pulse/employee-attrition-uncovering-hidden-factors-behind-exit-akanu-fwfjf/?trackingId=8FKd3M4c8HMnV0xj13GLcA%3D%3D)
 
 
+## SKILLS 
+(CORE)
+<p> 
+<div style="text-align: justify;">
+**- ✅ Data Analytics & Interpretation** **- ✅ Business Intelligence & Reporting** **- ✅ Data Visualization** **- ✅ Data Cleaning & Preparation** 
+**- ✅ SQL** **- ✅ Excel** **- ✅ Python** **- ✅ Predictive Modeling & Forecasting** **- ✅ Project Management**
+</div>
+</p>
 
+(SOFT)
+<p> 
+<div style="text-align: justify;">
+**- ✅ Story Telling** **- ✅ Problem Solving** **- ✅ Critical Thinking** **- ✅ Attention To Details** 
+**- ✅ Effective Communication** **- ✅ Curiosity** **- ✅ Time Management** **- ✅ Teamwork & Collaboration** **- ✅ Adaptive Learning**
+</div>
+</p>
 
 
 
