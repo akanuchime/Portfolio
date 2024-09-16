@@ -6,24 +6,24 @@ Hello! I'm Chimezirim Akanu 🤓, the data analyst, educator, and consultant. I 
 </div>
 </p>
 
-
-<!--Mention your top/relevant skills here - core and soft skills-->
 <p> 
+<!--Mention your top/relevant skills here - core and soft skills-->
+
 ## WHAT I DO
 </p>
-<div style="text-align: justify;">
-*As the Data Analyst, I provide consulting and manage projects for businesses with insights from data.*
-</div>
+
+*As the Data Analyst, I provide consulting services and manage projects for businesses with insights from data.*
+
 
 **- ✅ Data Analytics.**
-<div style="text-align: justify;">
+
 I provide in-depth analysis and unique solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
-</div>
+
 
 **- ✅ Business Analyst.**
-<div style="text-align: justify;">
+
 I offer consulting services and help businesses make data-driven decision in identifying areas for improvement to enhance operational efficiency.
-</div>
+
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
