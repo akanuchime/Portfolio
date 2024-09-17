@@ -93,7 +93,7 @@ Employees who felt recognized and engaged were more likely to excel in their rol
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://github.com/akanuchime/portfolio/blob/main/assets/Akanu.pdf">Download my CV</a></td>
+      <td><a href="https://github.com/akanuchime/portfolio/blob/e0f61138e3444e7f62bde6b6d357aa796217840c/assets/Akanu.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
