@@ -11,7 +11,7 @@ Hello! I'm Chimezirim Akanu 🤓, the data analyst, educator, and consultant. I 
 
 ## WHAT I DO
 
-* I specialize in transforming complex business datasets into clear, actionable intelligence that informs decision-making and fuels business growth through advanced data analytics.*
+<em>I specialize in transforming complex business datasets into clear, actionable intelligence that informs decision-making and fuels business growth through advanced data analytics.</em>
 
 **- ✅ Data Analytics.**
 
@@ -55,7 +55,7 @@ Employees who felt recognized and engaged were more likely to excel in their rol
 (CORE)
 
 <ul>
- <li>✅ SQL - ✅ Excel - ✅ Python</li>
+ <li>✅ SQL ✅ Excel ✅ Python</li>
  <li>✅ Business Intelligence & Reporting</li>
  <li>✅ Predictive Modeling & Forecasting</li>
  <li>✅ Data Analytics & Interpretation</li> 
@@ -66,10 +66,12 @@ Employees who felt recognized and engaged were more likely to excel in their rol
 
 
 (SOFT)
-<p> 
-<div style="text-align: justify;">
-**- ✅ Story Telling** **- ✅ Problem Solving** **- ✅ Critical Thinking** **- ✅ Attention To Details** 
-**- ✅ Effective Communication** **- ✅ Curiosity** **- ✅ Time Management** **- ✅ Teamwork & Collaboration** **- ✅ Adaptive Learning**
+<ul>
+ <li>✅ Story Telling ✅ Problem Solving ✅ Critical Thinking</li>
+ <li>✅ Attention To Details ✅ Effective Communication</li>
+ <li>✅ Curiosity ✅ Time Management</li>
+ <li>✅ Teamwork & Collaboration</li>
+ <li>✅ Adaptive Learning</li>
 </div>
 </p>
 
@@ -77,7 +79,7 @@ Employees who felt recognized and engaged were more likely to excel in their rol
 
 ## CONTACT DETAILS
 
-*Let’s connect and see how we can make a difference together!*
+*Let’s collaborate and explore how we can achieve great things together!*
 <table>
   <tbody>
     <tr>
