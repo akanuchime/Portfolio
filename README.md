@@ -11,16 +11,21 @@ Hello! I'm Chimezirim Akanu 🤓, the data analyst, educator, and consultant. I 
 
 ## WHAT I DO
 
+<div style="text-align: justify;">
 <em>I specialize in transforming complex business datasets into clear, actionable intelligence that informs decision-making and fuels business growth through advanced data analytics.</em>
+</div>
 
 **- ✅ Data Analytics.**
 
+<div style="text-align: justify;">
 I provide in-depth analysis and unique solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+</div>
 
 **- ✅ Business Analyst.**
 
+<div style="text-align: justify;">
 I offer consulting services and help businesses in identifying business needs, recommend areas for improvement to enhance operational efficiency and profitability.
-
+</div>
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
