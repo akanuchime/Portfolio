@@ -72,9 +72,6 @@ Employees who felt recognized and engaged were more likely to excel in their rol
  <li>✅ Curiosity ✅ Time Management</li>
  <li>✅ Teamwork & Collaboration</li>
  <li>✅ Adaptive Learning</li>
-</div>
-</p>
-
 
 
 ## CONTACT DETAILS
@@ -103,7 +100,7 @@ Employees who felt recognized and engaged were more likely to excel in their rol
       <td><a href="https://www.linkedin.com/in/chimeakanu">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
-      <td>📺</td>
+      <td>🌐</td>
       <td><a href="https://web.facebook.com/chimeakanu">My activities on the blue app</a></td>
     </tr>
   </tbody>
